@@ -54,11 +54,3 @@ I'm 3rd-year Computer Engineering @ UBC interested in cloud-native systems and a
   Secured sponsorships and organized **15+ events** engaging **750+ students**
 - **Student Ambassador — Nokia** *(May 2024 – Dec 2024)*  
   Led events for **200+ students** and represented Nokia at uOttawa career fair
-
-
-## 📈 GitHub Stats
-<details>
-  <summary>Open</summary>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-devanand&layout=compact)
-
-</details>
