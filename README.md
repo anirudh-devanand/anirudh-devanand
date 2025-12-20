@@ -59,8 +59,6 @@ I'm 3rd-year Computer Engineering @ UBC interested in cloud-native systems and a
 ## 📈 GitHub Stats
 <details>
   <summary>Open</summary>
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirudh-devanand&show_icons=true&hide_title=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-devanand&layout=compact)
 
 </details>
