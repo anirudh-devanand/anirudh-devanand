@@ -65,6 +65,7 @@ I'm 3rd-year Computer Engineering @ UBC interested in cloud-native systems and a
 - Built an IoT simulator (Java) with CO₂/pressure/temp/switch streams and a client-server actuator control framework
 - Implemented **Earliest Deadline First (EDF)** scheduling to handle concurrent client requests and eliminate server timeouts
 - Deployed predictive analytics via **AWS Lambda** and exposed endpoints using **AWS SAM** + REST APIs
+- Link: [IoT & Concurrent Data Analytics ](https://xwz3zunwac.execute-api.us-east-2.amazonaws.com/prod/lmbdafn?param1=0&param2=-1&param3=[])
 
 
 ## 🧑‍🤝‍🧑 Leadership
