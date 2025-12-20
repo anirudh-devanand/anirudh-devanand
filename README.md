@@ -42,6 +42,25 @@ I'm 3rd-year Computer Engineering @ UBC interested in cloud-native systems and a
 
 ## 🧪 Projects
 
+### Cloud-Native Password Manager
+- Built a cloud-native password manager with a Go backend, MongoDB persistence, and an Apache-hosted frontend.
+- Containerized with Docker (multi-stage builds) and orchestrated locally using Docker Compose.
+- Repo: [golang-docker-apache](https://github.com/anirudh-devanand/golang-docker-apache)
+
+### Spam Detection with Bayes Inverse + SmolLM2
+- Built a spam vs. ham classifier using a Bayes-inverse scoring approach on top of SmolLM2.
+- Evaluated zero-shot, naive prompting, and full fine-tuning; improved generalization with data synthesis, weight decay, and gradient clipping.
+- Repo: [spam-detection-smolLM2](https://github.com/anirudh-devanand/spam-detection-smolLM2)
+
+### F1TENTH Autonomous Parking (ROS 2)
+- Implemented a forward-parking controller for F1TENTH using LIDAR-based gap detection and a finite state machine.
+- State machine: drive forward to detect a gap, reverse to position, turn into the spot, straighten and stop.
+- Repo: [F1Tenth-autonomous-driving](https://github.com/anirudh-devanand/F1Tenth-autonomous-driving)
+
+### RISC Machine
+- Designed and implemented a RISC-style machine, including the datapath and control logic, with a focus on correctness and testability.
+- Repo: [RISC-verilog-FPGA](https://github.com/anirudh-devanand/RISC-verilog-FPGA)
+
 ### IoT & Concurrent Data Analytics (UBC) | Dec 2023
 - Built an IoT simulator (Java) with CO₂/pressure/temp/switch streams and a client-server actuator control framework
 - Implemented **Earliest Deadline First (EDF)** scheduling to handle concurrent client requests and eliminate server timeouts
