@@ -56,7 +56,7 @@ I'm 3rd-year Computer Engineering @ UBC interested in cloud-native systems and a
   Led events for **200+ students** and represented Nokia at uOttawa career fair
 
 
-## 📈 GitHub Stats (optional)
+## 📈 GitHub Stats
 <details>
   <summary>Open</summary>
 
