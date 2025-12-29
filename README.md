@@ -1,76 +1,90 @@
-Hi, I'm Anirudh!
---
+### Hi, I'm Anirudh!
+<img src="https://github.com/user-attachments/assets/59ebc2f8-8032-44e7-a30b-6487ffe37cb3" height=14 />  <small> Vancouver, BC </small> | [<image src="https://github.com/user-attachments/assets/f1402db5-606a-47be-9e55-b209b6f85374" height=14/>](https://www.linkedin.com/in/anirudh-devanand/) | [<image src="https://github.com/user-attachments/assets/2b238c87-b6f3-4470-afae-4068a0ac2c11"  height=14/>](anirudh.devanand.p@gmail.com)
 
-📍 Vancouver, BC  
-🔗 LinkedIn: https://www.linkedin.com/in/anirudh-devanand/  
-📫 Email: anirudh.devanand.p@gmail.com
+I'm 3rd-year Computer Engineering @ UBC interested in applied ML abd cloud-native systems
 
-I'm 3rd-year Computer Engineering @ UBC interested in cloud-native systems and applied AI
+---
 
-## 🔭 What I’m up to
-- Learning how to build operating systems and develop ai models 
-- Organizing the most hype events UBC's seen as VP Stud. Life @EUS
+### <img src="https://github.com/user-attachments/assets/d4ba5e96-0c9e-40fc-9075-f9762b404e8f" height=30 />  What I’m up to
+- Learning how to build & train ai models
+- Organizing the most hype events UBC's seen as <small> [VP Stud. Life @EUS](https://ubcengineers.ca/meet-the-execs) </small>
 
-## 🧰 Technical Skills
+---
 
-**Languages:** Java, Python, Shell, Go, SQL, C/C++, YAML  
-**DevOps:** Docker, Kubernetes, MongoDB, REST, Apache, GitHub, Selenium  
-**Frameworks/Platforms:** Linux, Graph API, Power Platform, FastAPI, Qdrant, Flask, ROS2  
-**Tools:** Gradle, LangChain, VirtualBox, Ollama
+### <img src="https://github.com/user-attachments/assets/007a84fe-9b0c-4063-8337-d16064ee8b4a" height="20"/>  What I use
 
+- **Languages**: <small>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="14" title="Java" alt="Java" />](https://www.oracle.com/java/),
+[<img src="https://cdn.simpleicons.org/python" height="14" title="Python" alt="Python" />](https://www.python.org/),
+[<img src="https://cdn.simpleicons.org/gnubash" height="14" title="Bash" alt="Bash" />](https://www.gnu.org/software/bash/),
+[<img src="https://cdn.simpleicons.org/go" height="14" title="Go" alt="Go" />](https://go.dev/),
+[<img src="https://cdn.simpleicons.org/postgresql" height="14" title="SQL (PostgreSQL)" alt="PostgreSQL" />](https://www.postgresql.org/docs/),
+[<img src="https://cdn.simpleicons.org/c" height="14" title="C" alt="C" />](https://en.cppreference.com/w/c/language),
+[<img src="https://cdn.simpleicons.org/cplusplus" height="14" title="C++" alt="C++" />](https://en.cppreference.com/w/cpp),
+[<img src="https://cdn.simpleicons.org/yaml" height="14" title="YAML" alt="YAML" />](https://yaml.org/)
+</small>
 
-## 💼 Experience
+- **DevOps**: <small>
+[<img src="https://cdn.simpleicons.org/docker" height="14" title="Docker" alt="Docker" />](https://docs.docker.com/), 
+[<img src="https://cdn.simpleicons.org/kubernetes" height="14" title="Kubernetes" alt="Kubernetes" />](https://kubernetes.io/docs/), 
+[<img src="https://cdn.simpleicons.org/mongodb" height="14" title="MongoDB" alt="MongoDB" />](https://www.mongodb.com/docs/), 
+[<img src="https://cdn.simpleicons.org/openapiinitiative" height="14" title="REST APIs" alt="OpenAPI" />](https://restfulapi.net/), 
+[<img src="https://cdn.simpleicons.org/apache" height="14" title="Apache HTTP Server" alt="Apache" />](https://httpd.apache.org/docs/), 
+[<img src="https://cdn.simpleicons.org/github" height="14" title="GitHub" alt="GitHub" />](https://docs.github.com/), 
+[<img src="https://cdn.simpleicons.org/selenium" height="14" title="Selenium" alt="Selenium" />](https://www.selenium.dev/documentation/)
+</small>
 
-### Nokia — Software Development Co-op (Ottawa) | May 2025 – Aug 2025
-- Built an **agentic RAG** system (LangChain tools + ReAct agent) for sales-catalog Q&A with transparent tool traces
-- Deployed **CPU-only local Llama-3** inference tuned for latency (threads + context optimization)
-- Implemented embedding ingestion + **Qdrant** retrieval with ingestion progress tracking and quality validation
-- Orchestrated **Qdrant + Llama-3 + FastAPI** behind a REST API using Docker Compose; integrated **Power Automate** for end-to-end workflows
+- **Frameworks**: <small>
+[<img src="https://cdn.simpleicons.org/linux" height="14" title="Linux" alt="Linux" />](https://www.kernel.org/doc/html/latest/), 
+[<img src="https://store-images.s-microsoft.com/image/apps.5460.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.7c939c07-5097-4a52-abd1-de0a42b889ba" height="14" title="Power Platform" alt="Power Apps" />](https://learn.microsoft.com/power-platform/), 
+[<img src="https://cdn.simpleicons.org/fastapi" height="14" title="FastAPI" alt="FastAPI" />](https://fastapi.tiangolo.com/), 
+[<img src="https://files.svgcdn.io/logos/qdrant-icon.png" height="14" title="Qdrant" alt="Qdrant" />](https://qdrant.tech/documentation/), 
+[<img src="https://cdn.simpleicons.org/flask" height="14" title="Flask" alt="Flask" />](https://flask.palletsprojects.com/), 
+[<img src="https://cdn.simpleicons.org/ros" height="14" title="ROS 2" alt="ROS" />](https://docs.ros.org/en/rolling/)
+</small>
 
-### Nokia — Network Automation Co-op (Ottawa) | May 2024 – Dec 2024
-- Built a centralized solutions catalogue with **PowerApps** + Azure AD auth (RBAC + dynamic access control) across **14+ countries**
-- Automated file metadata prefetch via **Power Automate + Graph API**, reducing latency by **36%**
-- Created event-driven logging + maintenance workflow; integrated **Power BI** for real-time monitoring
-- Built automated testing with **Selenium + Chromedriver + Java**, reducing manual authentication errors by **45%**
-- Wrote shell automation for environment setup, cron scheduling, and report generation
+- **Tools**: <small>
+[<img src="https://cdn.simpleicons.org/gradle" height="14" title="Gradle" alt="Gradle" />](https://docs.gradle.org/), 
+[<img src="https://cdn.simpleicons.org/langchain" height="14" title="LangChain" alt="LangChain" />](https://python.langchain.com/), 
+[<img src="https://cdn.simpleicons.org/virtualbox" height="14" title="VirtualBox" alt="VirtualBox" />](https://www.virtualbox.org/wiki/Documentation), 
+[<img src="https://cdn.simpleicons.org/ollama" height="14" title="Ollama" alt="Ollama" />](https://ollama.com/)
+</small>
 
-### gopaddle — Open Source Developer @ Sail (India) | Apr 2022 – Aug 2022
-- Built Linux-distro-agnostic scripts to preload Sail into Docker containers, reducing install time by **60%**
-- Developed process migration using **nsenter + cgroups** to move running processes into containers without downtime
-- Extracted CPU/memory metadata and generated `.yaml` deployment configs to prevent throttling during migration
+---
 
+###  <img src="https://media.tenor.com/JbXB3m4al4kAAAAj/orbminecraft.gif" height="17" title="Experience" alt="Experience" /> Experience highlight
 
-## 🧪 Projects
+**Nokia — Software Development Co-op (Ottawa) | May 2025 – Aug 2025**
 
-### Cloud-Native Password Manager
-- Built a cloud-native password manager with a Go backend, MongoDB persistence, and an Apache-hosted frontend.
-- Containerized with Docker (multi-stage builds) and orchestrated locally using Docker Compose.
-- Repo: [golang-docker-apache](https://github.com/anirudh-devanand/golang-docker-apache)
+- LangGraph + ReAct agent with LangChain tools for retrieval, observations, guardrails
 
-### Spam Detection with Bayes Inverse + SmolLM2
-- Built a spam vs. ham classifier using a Bayes-inverse scoring approach on top of SmolLM2.
-- Evaluated zero-shot, naive prompting, and full fine-tuning; improved generalization with data synthesis, weight decay, and gradient clipping.
+- Ollama Llama-3 & Qdrant HNSW tuning for Recall@k + p95 latency optimization 
+
+- Qdrant ignestion with overlap chunking, content-hash dedupe, checkpoints, retry backoff
+
+- Docker Compose orchestration for FastAPI + Qdrant + Ollama for consistent networking/configs
+  
+- [<img src="https://cdn.simpleicons.org/python" height="14" title="Python" alt="Python" />](https://www.python.org/), 
+[<img src="https://cdn.simpleicons.org/docker" height="14" title="Docker" alt="Docker" />](https://docs.docker.com/), 
+[<img src="https://files.svgcdn.io/logos/qdrant-icon.png" height="14" title="Qdrant" alt="Qdrant" />](https://qdrant.tech/documentation/), 
+[<img src="https://cdn.simpleicons.org/fastapi" height="14" title="FastAPI" alt="FastAPI" />](https://fastapi.tiangolo.com/), 
+[<img src="https://cdn.simpleicons.org/langchain" height="14" title="LangChain" alt="LangChain" />](https://python.langchain.com/),
+[<img src="https://cdn.simpleicons.org/openapiinitiative" height="14" title="REST APIs" alt="OpenAPI" />](https://restfulapi.net/), 
+[<img src="https://cdn.simpleicons.org/ollama" height="14" title="Ollama" alt="Ollama" />](https://ollama.com/)
+
+---
+
+### <img src="https://github.com/user-attachments/assets/24db417b-2618-4bfb-8f53-1de05f3fedbc" height="22" /> Project Highlights
+
+**Spam Detection with Bayes Inverse + SmolLM2**
+- Integrated pretrained SmolLM2 into PyTorch inference pipeline
+- Fine-tuned SmolLM2 weights using AdamW optimizer with early stopping; ~90% test accuracy
+- Augmented dataset via synthesis to reduce overfitting, improve generalization
 - Repo: [spam-detection-smolLM2](https://github.com/anirudh-devanand/spam-detection-smolLM2)
 
-### F1TENTH Autonomous Parking (ROS 2)
-- Implemented a forward-parking controller for F1TENTH using LIDAR-based gap detection and a finite state machine.
-- State machine: drive forward to detect a gap, reverse to position, turn into the spot, straighten and stop.
-- Repo: [F1Tenth-autonomous-driving](https://github.com/anirudh-devanand/F1Tenth-autonomous-driving)
-
-### RISC Machine
-- Designed and implemented a RISC-style machine, including the datapath and control logic, with a focus on correctness and testability.
+**RISC Machine**
+- 16-bit SystemVerilog RISC CPU: 8×16 regfile, ALU, shifter, PC, NZV
+- Multi-cycle control FSM: fetch/decode/execute
+- ModelSim verification with directed assembly; validated flags, overflow, control-flow
+- Quartus FPGA bring-up on DE1-SoC; RAM + memory-mapped I/O for end-to-end runs
 - Repo: [RISC-verilog-FPGA](https://github.com/anirudh-devanand/RISC-verilog-FPGA)
-
-### IoT & Concurrent Data Analytics (UBC) | Dec 2023
-- Built an IoT simulator (Java) with CO₂/pressure/temp/switch streams and a client-server actuator control framework
-- Implemented **Earliest Deadline First (EDF)** scheduling to handle concurrent client requests and eliminate server timeouts
-- Deployed predictive analytics via **AWS Lambda** and exposed endpoints using **AWS SAM** + REST APIs
-- Link: [IoT & Concurrent Data Analytics ](https://xwz3zunwac.execute-api.us-east-2.amazonaws.com/prod/lmbdafn?param1=0&param2=-1&param3=[])
-
-
-## 🧑‍🤝‍🧑 Leadership
-
-- **VP Student Life — Engineering Undergraduate Society (UBC)** *(Aug 2022 – Present)*  
-  Secured sponsorships and organized **15+ events** engaging **750+ students**
-- **Student Ambassador — Nokia** *(May 2024 – Dec 2024)*  
-  Led events for **200+ students** and represented Nokia at uOttawa career fair
