@@ -1,7 +1,7 @@
 ### Hi, I'm Anirudh!
 <img src="https://github.com/user-attachments/assets/59ebc2f8-8032-44e7-a30b-6487ffe37cb3" height=14 />  <small> Vancouver, BC </small> | [<image src="https://github.com/user-attachments/assets/f1402db5-606a-47be-9e55-b209b6f85374" height=14/>](https://www.linkedin.com/in/anirudh-devanand/) | [<image src="https://github.com/user-attachments/assets/2b238c87-b6f3-4470-afae-4068a0ac2c11"  height=14/>](anirudh.devanand.p@gmail.com)
 
-I'm 3rd-year Computer Engineering @ UBC interested in applied ML abd cloud-native systems
+I'm 3rd-year Computer Engineering @ UBC interested in applied ML and cloud-native systems
 
 ---
 
