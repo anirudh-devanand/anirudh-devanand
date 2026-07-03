@@ -78,6 +78,13 @@ I'm 3rd-year Computer Engineering @ UBC interested in applied ML and cloud-nativ
 
 ### <img src="https://github.com/user-attachments/assets/24db417b-2618-4bfb-8f53-1de05f3fedbc" height="22" /> Project Highlights
 
+**Agent Trace Replay Platform**
+
+- Ingested agent tool-call traces via FastAPI REST API into PostgreSQL with Kafka event publishing for downstream replay
+- Implemented mock replay workers with failure injection (timeout, 5xx, malformed JSON) on captured dependency sequences
+- Reduced mean time to reproduce intermittent incidents from ~2 hr log triage to ~10 min on 25 captured traces
+- Repo: [agent-trace-replay](https://github.com/anirudh-devanand/agent-trace-replay)
+
 **Spam Detection with Bayes Inverse + SmolLM2**
 - Integrated pretrained SmolLM2 into PyTorch inference pipeline
 - Fine-tuned SmolLM2 weights using AdamW optimizer with early stopping; ~90% test accuracy
