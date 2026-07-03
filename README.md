@@ -40,7 +40,9 @@ I'm 3rd-year Computer Engineering @ UBC interested in applied ML and cloud-nativ
 [<img src="https://cdn.simpleicons.org/fastapi" height="14" title="FastAPI" alt="FastAPI" />](https://fastapi.tiangolo.com/), 
 [<img src="https://files.svgcdn.io/logos/qdrant-icon.png" height="14" title="Qdrant" alt="Qdrant" />](https://qdrant.tech/documentation/), 
 [<img src="https://cdn.simpleicons.org/flask" height="14" title="Flask" alt="Flask" />](https://flask.palletsprojects.com/), 
-[<img src="https://cdn.simpleicons.org/ros" height="14" title="ROS 2" alt="ROS" />](https://docs.ros.org/en/rolling/)
+[<img src="https://cdn.simpleicons.org/ros" height="14" title="ROS 2" alt="ROS" />](https://docs.ros.org/en/rolling/),
+[<img src="https://cdn.simpleicons.org/modelcontextprotocol" height="14" title="MCP" alt="Model Context Protocol" />](https://modelcontextprotocol.io/docs/getting-started/intro),
+[<img src="https://cdn.simpleicons.org/langgraph" height="14" title="MCP" alt="Model Context Protocol" />](https://www.langchain.com/langgraph)
 </small>
 
 - **Tools**: <small>
