@@ -6,7 +6,7 @@ I'm 3rd-year Computer Engineering @ UBC interested in applied ML and cloud-nativ
 ---
 
 ### <img src="https://github.com/user-attachments/assets/d4ba5e96-0c9e-40fc-9075-f9762b404e8f" height=30 />  What I’m up to
-- Learning how to build & train ai models
+- Learning how to build ai models, RAG pipelines and agentic workflows
 - Organizing the most hype events UBC's seen as <small> [VP Stud. Life @EUS](https://ubcengineers.ca/meet-the-execs) </small>
 
 ---
